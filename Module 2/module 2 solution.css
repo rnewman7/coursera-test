@@ -8,10 +8,11 @@
  .first {
       width: 300px;
       height: 150px;
-      border: 1px solid blac;
+      border: 1px solid black;
       padding: 10px;
       margin: 1%;
       background: gray;
+      float: left;
 
  }
 
