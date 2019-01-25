@@ -32,7 +32,7 @@
        font-style: italic;
        float: right;
    }
-#first2 {
+#first3 {
         width: 300px;
         height: 150px;
         border: 1px solid black;
@@ -42,7 +42,7 @@
 
    }
 
-#first2 #second2{
+#first3 #second3{
         width: 15%;
         height: 10%;
         border: 1px solid black;
@@ -55,7 +55,7 @@
 .text {
   clear:right;
   margin-left;
-  margin-right:auto; 
+  margin-right:auto;
   text-align:left;
 }
 
