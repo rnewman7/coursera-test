@@ -5,14 +5,14 @@
 
  }
 
-  #first1 #second1{
+#first1 #second1{
       width: 15%;
       height: 10%;
       border: 1px solid black;
       font-style: italic;
       float: right;
   }
-  #first2 {
+#first2 {
        width: 300px;
        height: 150px;
        border: 1px solid black;
@@ -22,7 +22,7 @@
 
   }
 
-   #first2 #second2{
+#first2 #second2{
        width: 15%;
        height: 10%;
        border: 1px solid black;
@@ -32,7 +32,7 @@
        font-style: italic;
        float: right;
    }
-   #first2 {
+#first2 {
         width: 300px;
         height: 150px;
         border: 1px solid black;
@@ -42,7 +42,7 @@
 
    }
 
-    #first2 #second2{
+#first2 #second2{
         width: 15%;
         height: 10%;
         border: 1px solid black;
@@ -52,6 +52,12 @@
         font-style: italic;
         float: right;
     }
+.text {
+  clear:right;
+  margin-left;
+  margin-right:auto; 
+  text-align:left;
+}
 
 }
 .row{
