@@ -1,39 +1,40 @@
 #first1 {
-      width: 300px;
-      height: 150px;
-      border: 1px solid black;
-      padding: 10px;
-      background: gray;
-      float: left;
+        width: 300px;
+        height: 150px;
+        border: 1px solid black;
+        padding: 10px;
+        background: gray;
+        float: left;
 
  }
 
 #first1 #second1{
-      width: 15%;
-      height: 10%;
-      border: 1px solid black;
-      font-style: italic;
-      float: right;
+        width: 15%;
+        height: 10%;
+        border: 1px solid black;
+        padding: 10px;
+        background: lightblue;
+        font-style: italic;
+        float: right;
   }
 #first2 {
-       width: 300px;
-       height: 150px;
-       border: 1px solid black;
-       padding: 10px;
-       background: gray;
-       float: left;
+        width: 300px;
+        height: 150px;
+        border: 1px solid black;
+        padding: 10px;
+        background: gray;
+        float: left;
 
   }
 
 #first2 #second2{
-       width: 15%;
-       height: 10%;
-       border: 1px solid black;
-       padding: 10px;
-       font-size: 18;
-       background: lightblue;
-       font-style: italic;
-       float: right;
+        width: 15%;
+        height: 10%;
+        border: 1px solid black;
+        padding: 10px;
+        background: lightblue;
+        font-style: italic;
+        float: right;
    }
 #first3 {
         width: 300px;
@@ -50,7 +51,6 @@
         height: 10%;
         border: 1px solid black;
         padding: 10px;
-        font-size: 18;
         background: lightblue;
         font-style: italic;
         float: right;
