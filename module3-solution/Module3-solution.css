@@ -9,7 +9,9 @@ h3#position{
 .container {
   margin-right: auto;
   margin-left: auto;
-  border: 2px solid black;
+  border: 0 solid #000;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
   background-color: lightgrey;
 }
 
