@@ -1,9 +1,10 @@
 
-.a {
+h3 {
   font-size: 1.6em;
   text-align: center;
   color: : red;
 }
+
 
 /*********desktop**********/
 media (min-width: 1200px) {
@@ -12,14 +13,21 @@ media (min-width: 1200px) {
   }
 }
 /***********tablet**********/
-@media (min-width: 992px) {
+@media (min-width: 768px) and (max-width: 1199px) {
   .container {
     width: 970px;
   }
 }
 /*********mobile*********/
-@media (min-width: 768px) {
-  .container {
-    width: 1170px;
+@media (max-width: 768px) {
+  /*header*/
+  .navbar-brand {
+    padding-top: 10px;
+    height: 80px;
+
+  }
+
+
+  }
   }
 }
