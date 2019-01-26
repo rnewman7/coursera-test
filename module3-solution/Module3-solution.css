@@ -6,12 +6,10 @@ h3#position{
   text-align: center;
   color: darkblue;
 }
-p.container {
-  padding-right: 15px;
-  padding-left: 15px;
+.container {
   margin-right: auto;
   margin-left: auto;
-  background-color: lightgray;
+  background-color: lightgrey;
 }
 
 
