@@ -1,0 +1,18 @@
+h1.align{
+  text-align: center;
+  color: lightblue;
+}
+h3#position{
+  text-align: center;
+  color: darkblue;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  border: 0 solid #000;
+  border-left: 1px solid #000;
+  border-right: 1px solid #000;
+  border-top: 1px solid #000;
+  border-bottom: 1px solid #000-;
+  background-color: lightgrey;
+}
